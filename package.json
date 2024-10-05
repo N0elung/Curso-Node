@@ -1,0 +1,24 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000u\u0000r\u0000s\u0000o\u0000-\u0000N\u0000o\u0000d\u0000e\u0000\r\u0000 \u0000",
+  "main": "1.os-info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Noel Beltran",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "^1.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/N0elung/Curso-Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/N0elung/Curso-Node/issues"
+  },
+  "homepage": "https://github.com/N0elung/Curso-Node#readme"
+}
